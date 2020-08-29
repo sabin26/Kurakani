@@ -1,5 +1,5 @@
 # Kurakani
-<kbd><img src="screenshots/Screenshot_1.jpg" width="250"/>&emsp;<img src="screenshots/Screenshot_2.jpg" width="250"/>&emsp;<img src="screenshots/Screenshot_3.jpg" width="250"/></kdb>
+<kbd><img src="screenshots/Screenshot_1.jpg" width="250"/></kdb>&emsp;<kdb><img src="screenshots/Screenshot_2.jpg" width="250"/></kdb>&emsp;<kdb><img src="screenshots/Screenshot_3.jpg" width="250"/></kdb>
 
 <kbd><img src="screenshots/Screenshot_4.jpg" width="250"/>&emsp;<img src="screenshots/Screenshot_5.jpg" width="250"/>&emsp;<img src="screenshots/Screenshot_6.jpg" width="250"/></kdb>
 
